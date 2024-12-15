@@ -36,7 +36,7 @@ const BicycleRentingApp = () => {
           <div className="md:w-1/2 mb-10 md:mb-0">
             <h2 className="text-4xl font-bold mb-4">Your Eco-friendly journey starts with us</h2>
             <p className="text-xl mb-6">Rent a bike and discover the beauty of urban cycling.</p>
-            <button className="bg-green-500 text-white font-bold py-3 px-6 rounded-full hover:bg-green-600 transition duration-300">Rent a Bike</button>
+            <button className="bg-green-500 text-white font-bold py-3 px-6 rounded-full hover:bg-green-600 transition duration-300">Rent a Bike -<p className="text-pink">Coming soon</p></button>
           </div>
           <div className="md:w-1/2">
             <img src="https://images.unsplash.com/photo-1571188654248-7a89213915f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="People cycling" className="rounded-lg shadow-xl" />
