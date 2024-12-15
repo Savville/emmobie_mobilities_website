@@ -34,7 +34,7 @@ const BicycleRentingApp = () => {
       <section className="relative bg-gray-100 py-20">
         <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-10 md:mb-0">
-            <h2 className="text-4xl font-bold mb-4">Your Eco-friendly journey starts with us</h2>
+            <h2 className="text-4xl font-bold mb-4">Your Eco-friendly journey starts here</h2>
             <p className="text-xl mb-6">Rent a bike and discover the beauty of urban cycling.</p>
             <button className="bg-green-500 text-white font-bold py-3 px-6 rounded-full hover:bg-green-600 transition duration-300">Rent a Bike -<p className="text-pink">Coming soon</p></button>
           </div>
@@ -163,7 +163,7 @@ const BicycleRentingApp = () => {
               <h4 className="text-lg font-semibold mb-4">Contact Us</h4>
               <p>Kahawa ,Thika Road</p>
               <p>Phone: +254 797257269 </p>
-              <p>Email: emmobiemonilities@gmail.com</p>
+              <p>Email: emmobiemobilities@gmail.com</p>
             </div>
             <div>
               <h4 className="text-lg font-semibold mb-4">Follow Us</h4>
@@ -176,7 +176,7 @@ const BicycleRentingApp = () => {
             </div>
           </div>
           <div className="border-t border-gray-700 mt-8 pt-8 text-center">
-            <p>&copy; 2022 Emmobility. All rights reserved.</p>
+            <p>&copy; 2024 Emmobility. All rights reserved.</p>
             <div className="mt-2">
               <a href="#" className="text-sm hover:text-green-500 mr-4">Privacy Policy</a>
               <a href="#" className="text-sm hover:text-green-500">Terms of Service</a>
